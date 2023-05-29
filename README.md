@@ -1,6 +1,6 @@
 # Ball vs Blocks - Arkanoid  🔵🟢🟡
 
-This is a simple implementation of the classic Arkanoid game in Java, utilizing Object Oriented Programming (OOP) design patterns, demonstrating the power of OOP design patterns in creating a flexible and modular game structure. 
+This is an implementation of the classic Arkanoid game in Java, utilizing Object Oriented Programming (OOP) design patterns, demonstrating the power of OOP design patterns in creating a flexible and modular game structure. 
 
 ## Game Overview
 
